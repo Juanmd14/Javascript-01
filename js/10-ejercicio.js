@@ -16,5 +16,5 @@ switch (true) {
        console.log('es divisible por 7')
     break;
   default:
-    console.log('no es divisible por nothing')
+    console.log('no es divisible por ninguno de los cuatro')
 }
